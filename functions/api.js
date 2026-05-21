@@ -7,7 +7,7 @@ app.use(express.json());
 
 // ⚠️ අර කලින් දාපු රහස් යතුරු 3 ආයෙත් මෙතනට දාන්න
 const VERIFY_TOKEN = "my_super_secret_token_123"; 
-const WHATSAPP_TOKEN = "EAAObtMYm7YQBRs2Yu6sP2e8GhDJ7n98z0ZCblwOtQL0bIos7OVC9qrjrQ6UXrzk8rBSwkuoFRdfGZCVXuwuOGjbuXodmlLhMFPiwzw01uLjaqY7taojpQuazi1ECdELrRx8RPBfSfEUzSpwna3PQZBEjsyg9o2OmmWxE1dkZCSDkKWL3IcDgVHjZCmBIUQZCQ3AH6fs6ybnsYFyuXbo3FSAti7pVAkXvYJWipvZAHbiPiQDp72vtXeNMigJJmLGiDWAu1RPBUWJlE2TbDKXzhAisrnMBwZDZD
+const WHATSAPP_TOKEN = "EAAObtMYm7YQBRlTBGwRYA5Bc0Uz1ZCQaw9ZCZAZA1kXJLHW9ZAoHKo4pmOSlJFCWZBzCedQlWZBsTFpVnfuouRZAZBaaUkoXiKloMeZAh51Nhyaz2wq48n7Vx3nXG5OVJoVnhe6fndJjZBJMwms9iyEzFFZBml9YKNgjvl5IoldaNsrlVHmbiPuhleiAZC70LLYRpU0WqLsWvFctqqQyQ0UcpXTHrcbWZAUoSZCujHDzjzW68UZCLzfsnFb53KreA1ETJwtq1GEL6mGv19NCD3h2ktwLnhtHTicR
 ";
 const PHONE_NUMBER_ID = "1064438050096039";
 
